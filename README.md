@@ -157,8 +157,8 @@ Supply-chain security focused format, emphasizes vulnerability tracking.
   "metadata": {
     "timestamp": "2026-09-17T...",
     "tools": [{
-      "vendor": "Anthropic",
-      "name": "SBOM Generator",
+      "vendor": "stillholdstrue",
+      "name": "Bombastic SBOM Generator",
       "version": "1.0"
     }],
     "authors": [{"name": "..."}]
